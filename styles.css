@@ -62,7 +62,7 @@ nav input{
   display: none;
 }
 nav .checkbox i{
-  font-size: 2rem;
+  font-size: 2.8rem;
   color: var(--primary-color);
   cursor: pointer;
 }
